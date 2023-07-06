@@ -12,3 +12,9 @@ Type: publication <br>
 Brief description: The authors propose indices to follow the number of world’s active languages, the distribution of mother-tongue speakers among them and the rate of language extinction. The measures are based on a database of time-series data on language demographics. <br>
 Provided by: Agata Savary<br><br>
 
+Title: [Measuring diversity in multilingual communication](https://link.springer.com/article/10.1007/s11205-019-02161-5)<br>
+Authors: Michele Gazzola, Torsten Templin, Lisa J. McEnteeAtalianis<br>
+Type: publication <br>
+Brief description: Socio-linguistic diversity is measured in terms of the probability of using more than one common language in multilingual communication, as well as the degree of diversity of language policies. <br>
+Provided by: Agata Savary<br><br>
+
