@@ -60,3 +60,9 @@ Type: publication <br>
 Brief description: The authors describe Texygen, a benchmarking platform to support open-domain text generation. It covers a set of metrics that evaluate the diversity, the quality and the consistency of the generated texts. To measure diversity they use SelfBLEU, i.e. the BLEU measure applied to generated utterances rather than to the reference.<br>
 Provided by: Agata Savary<br><br>
 
+Title: [Semantic Diversity for Natural Language Understanding Evaluation in Dialog Systems](https://aclanthology.org/2020.coling-industry.5/)<br>
+Authors: Enrico Palumbo, Andrea Mezzalira, Cristina Marco, Alessandro Manzotti, and Daniele Amberti<br>
+Type: publication <br>
+Brief description: The authors address Natural Language Understanding in dialog systems and address the problem of creating a test set of utterances that covers a diversity of possible customer requests. The diversity measures are: SelfBLUE (as in Zhu et al. 2018), Jaccard (average word overlap across test utterances) and Word Embedding Diversity (average cosine distance between embeddings of vectors in the test set).<br>
+Provided by: Agata Savary<br><br>
+
