@@ -48,3 +48,9 @@ Type: publication <br>
 Brief description: The authors address NL generation and study the tradeoff between generation quality and diversity. In experiments they use Shannon’s entropy (measures which relate to richness and balance, respectively).<br>
 Provided by: Agata Savary<br><br>
 
+Title: [SemEval-2016 Task 1: Semantic Textual Similarity, Monolingual and Cross-Lingual Evaluation](https://aclanthology.org/S16-1081.pdf)<br>
+Authors: Eneko Agirre, Carmen Banea, Daniel Cer, Mona Diab, Aitor Gonzalez-Agirre, Rada Mihalcea, German Rigau, and Janyce Wiebe<br>
+Type: publication <br>
+Brief description: The authors describe a SemEval shared task on estimating the degree of semantic equivalence between two snippets of text. To select datasets in which the range of topics would be diverse enough, they use the measure of word embedding similarity, i.e. the average cosine distance between utterance embeddings.<br>
+Provided by: Agata Savary<br><br>
+
