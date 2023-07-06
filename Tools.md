@@ -42,3 +42,9 @@ Type: publication <br>
 Brief description: The authors stress the problem of the lack of diversity in the outputs of neural conversational systems and propose an diversity-driven objective function which addresses this problem. The diversity is measured in terms of the number of distinct unigrams and bigrams in generated text.<br>
 Provided by: Agata Savary<br><br>
 
+Title: [Trading Off Diversity and Quality in Natural Language Generation](https://aclanthology.org/2021.humeval-1.3/)<br>
+Authors: Hugh Zhang, Daniel Duckworth, Daphne Ippolito, Arvind Neelakantan<br>
+Type: publication <br>
+Brief description: The authors address NL generation and study the tradeoff between generation quality and diversity. In experiments they use Shannon’s entropy (measures which relate to richness and balance, respectively).<br>
+Provided by: Agata Savary<br><br>
+
