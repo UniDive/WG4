@@ -54,3 +54,9 @@ Type: publication <br>
 Brief description: The authors describe a SemEval shared task on estimating the degree of semantic equivalence between two snippets of text. To select datasets in which the range of topics would be diverse enough, they use the measure of word embedding similarity, i.e. the average cosine distance between utterance embeddings.<br>
 Provided by: Agata Savary<br><br>
 
+Title: [Texygen: A Benchmarking Platform for Text Generation Models](https://dl.acm.org/doi/abs/10.1145/3209978.3210080)<br>
+Authors: Yaoming Zhu, Sidi Lu, Lei Zheng, Jiaxian Guo, Weinan Zhang, Jun Wang, and Yong Yu<br>
+Type: publication <br>
+Brief description: The authors describe Texygen, a benchmarking platform to support open-domain text generation. It covers a set of metrics that evaluate the diversity, the quality and the consistency of the generated texts. To measure diversity they use SelfBLEU, i.e. the BLEU measure applied to generated utterances rather than to the reference.<br>
+Provided by: Agata Savary<br><br>
+
