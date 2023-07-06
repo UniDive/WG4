@@ -18,3 +18,9 @@ Type: publication <br>
 Brief description: Socio-linguistic diversity is measured in terms of the probability of using more than one common language in multilingual communication, as well as the degree of diversity of language policies. This is about inter-linguistic diversity.<br>
 Provided by: Agata Savary<br><br>
 
+Title: [Diversity in Spectral Learning for Natural Language Parsing](https://aclanthology.org/D15-1214.pdf)<br>
+Authors: Shashi Narayan and Shay B. Cohen<br>
+Type: publication <br>
+Brief description: The authors study the need for diversity in training data and its impact of the performance of NLP tools in parsing.<br>
+Provided by: Agata Savary<br><br>
+
