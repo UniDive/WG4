@@ -9,12 +9,12 @@ Provided by: Agata Savary<br><br>
 Title: [The index of linguistic diversity: A new quantitative measure of trends in the status of the world’s languages](https://scholarspace.manoa.hawaii.edu/items/761a86b0-9afd-43c9-b4a2-1800bad2158d)<br>
 Authors: David Harmon, Jonathan Loh <br>
 Type: publication <br>
-Brief description: The authors propose indices to follow the number of world’s active languages, the distribution of mother-tongue speakers among them and the rate of language extinction. The measures are based on a database of time-series data on language demographics. <br>
+Brief description: The authors propose indices to follow the number of world’s active languages, the distribution of mother-tongue speakers among them and the rate of language extinction. The measures are based on a database of time-series data on language demographics. This is about inter-linguistic diversity.<br>
 Provided by: Agata Savary<br><br>
 
 Title: [Measuring diversity in multilingual communication](https://link.springer.com/article/10.1007/s11205-019-02161-5)<br>
 Authors: Michele Gazzola, Torsten Templin, Lisa J. McEnteeAtalianis<br>
 Type: publication <br>
-Brief description: Socio-linguistic diversity is measured in terms of the probability of using more than one common language in multilingual communication, as well as the degree of diversity of language policies. <br>
+Brief description: Socio-linguistic diversity is measured in terms of the probability of using more than one common language in multilingual communication, as well as the degree of diversity of language policies. This is about inter-linguistic diversity.<br>
 Provided by: Agata Savary<br><br>
 
