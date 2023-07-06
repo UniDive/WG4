@@ -66,3 +66,9 @@ Type: publication <br>
 Brief description: The authors address Natural Language Understanding in dialog systems and address the problem of creating a test set of utterances that covers a diversity of possible customer requests. The diversity measures are: SelfBLUE (as in Zhu et al. 2018), Jaccard (average word overlap across test utterances) and Word Embedding Diversity (average cosine distance between embeddings of vectors in the test set).<br>
 Provided by: Agata Savary<br><br>
 
+Title: [TextBox: A unified, modularized, and extensible framework for text generation.](https://aclanthology.org/2021.acl-demo.4/)<br>
+Authors: Junyi Li, Tianyi Tang, Gaole He, Jinhao Jiang, Xiaoxuan Hu, Puzhao Xie, Zhipeng Chen, Zhuohao Yu, Wayne Xin Zhao, and Ji-Rong Wen<br>
+Type: publication <br>
+Brief description: The authors introduce a text generation toolbox. It contains an evaluation module with various evaluation measures implemented, including some diversity measures.<br>
+Provided by: Agata Savary<br><br>
+
