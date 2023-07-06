@@ -72,3 +72,9 @@ Type: publication <br>
 Brief description: The authors introduce a text generation toolbox. It contains an evaluation module with various evaluation measures implemented, including some diversity measures.<br>
 Provided by: Agata Savary<br><br>
 
+Title: [. Proceedings of the Workshop on Computational Linguistics for Linguistic Complexity (CL4LC)](https://aclanthology.org/W16-4100/)<br>
+Authors: Dominique Brunato, Felice Dell’Orletta, Giulia Venturi, Thomas François, Philippe Blache<br>
+Type: publication <br>
+Brief description: Workshop on linguistic complexity, a notion somewhat similar to diversity but addressed with different objectives (e.g.language learning or text simplification).<br>
+Provided by: Agata Savary<br><br>
+
