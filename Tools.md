@@ -24,3 +24,9 @@ Type: publication <br>
 Brief description: The authors study the need for diversity in training data and its impact of the performance of NLP tools in parsing.<br>
 Provided by: Agata Savary<br><br>
 
+Title: [HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](https://aclanthology.org/D18-1259/)<br>
+Authors: Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan Salakhutdinov, Christopher D. Manning<br>
+Type: publication <br>
+Brief description: The authors present a dataset dedicated to training question answering systems, tuned for diversity.<br>
+Provided by: Agata Savary<br><br>
+
