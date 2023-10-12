@@ -33,12 +33,6 @@ Provided by: Agata Savary<br><br>
 Title: [A Diversity-Promoting Objective Function for Neural Conversation Models](https://aclanthology.org/N16-1014.pdf)<br>
 Authors: Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, and Bill Dolan<br>
 Type: publication <br>
-Brief description: The authors stress the problem of the lack of diversity in the outputs of neural conversational systems and propose an diversity-driven objective function which addresses this problem.<br>
-Provided by: Agata Savary<br><br>
-
-Title: [A Diversity-Promoting Objective Function for Neural Conversation Models](https://aclanthology.org/N16-1014.pdf)<br>
-Authors: Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, and Bill Dolan<br>
-Type: publication <br>
 Brief description: The authors stress the problem of the lack of diversity in the outputs of neural conversational systems and propose an diversity-driven objective function which addresses this problem. The diversity is measured in terms of the number of distinct unigrams and bigrams in generated text.<br>
 Provided by: Agata Savary<br><br>
 
